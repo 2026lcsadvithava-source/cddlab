@@ -1,4 +1,4 @@
-```yaml
+yaml
 name: Build and Test
 
 on:
@@ -33,4 +33,3 @@ jobs:
 
       - name: Run tests
         run: python -m pytest
-```
